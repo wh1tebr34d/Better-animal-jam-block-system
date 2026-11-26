@@ -10,7 +10,9 @@ This offers a few features
 5. select viewable chat boxes (lets you mute the whole room but keep your friends unmuted)
 6. lasty lets you mute specific people for 10 minutes or forever if their annoying you
    
+if you wanna see it in action i dont know in case you think its fake i know github is 50/50 on new files uploaded so heres a youtube video also :)
 
+https://youtu.be/2blnf_ODjQc
 
 <img width="657" height="308" alt="Screenshot 2026-11-27 035922" src="https://github.com/user-attachments/assets/00559c11-ce64-41ad-b2bc-32d1798ce37b" />
 
