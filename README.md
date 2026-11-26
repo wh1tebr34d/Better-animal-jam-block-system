@@ -1,3 +1,6 @@
+<img width="1098" height="796" alt="b7b4e00dd56bcadaad8b38fa5540f830" src="https://github.com/user-attachments/assets/b9561c30-69e4-405b-9981-ce5f874a5e64" />
+
+
 This offers a few features 
 
 1. hides users when blocked
