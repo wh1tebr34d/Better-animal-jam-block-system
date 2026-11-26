@@ -5,7 +5,8 @@ This offers a few features
 3. blocks any alt they make if they have the name you blocked in it
 4. has a quiet room option(allows you to mute everyones chat boxes in a room)
 5. select viewable chat boxes (lets you mute the whole room but keep your friends unmuted)
-6. lasty lets you mute specific people for 10 minutes or forever if their annoying you 
+6. lasty lets you mute specific people for 10 minutes or forever if their annoying you
+   
 
 
 <img width="657" height="308" alt="Screenshot 2026-11-27 035922" src="https://github.com/user-attachments/assets/00559c11-ce64-41ad-b2bc-32d1798ce37b" />
