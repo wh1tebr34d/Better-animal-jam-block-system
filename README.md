@@ -23,3 +23,6 @@ open your animal jam games folder and open the resources folder and drop the app
 <img width="1927" height="1065" alt="Screenshot 2026-11-27 040203" src="https://github.com/user-attachments/assets/e8537037-415d-4c09-b92b-f8fdac63130a" />
 
 youll see in the top left corner the player block 
+
+
+<img width="1912" height="1054" alt="Screenshot 2026-11-27 042323" src="https://github.com/user-attachments/assets/cdd95af1-ea34-418a-bb26-8704801f9f89" />
